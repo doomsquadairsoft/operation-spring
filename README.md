@@ -4,6 +4,52 @@
 An Airsoft game put on by Doomsquadairsoft in spring 2017.
 
 
+## Event Description
+
+Scheduled during Spring Break, this should have a good turnout, and be a great first game of 2017! This game has had loads of planning and will feature special player classes, pyrotechnics and special equipment.
+
+
+### REDFOR vs. BLUFOR
+
+Chris has created an electronic control point solution, similar to our "Domination" device which we have used during night games. Each control point will have a stationary device which players can interact with. The device can be set to either team, REDFOR or BLUEFOR, and the status of each control point on the field can be seen by viewing a website on any player's smartphone. Players can respawn at any point controlled by their team.
+
+
+### Class-Based Combat
+
+Just like many FPS games, where players operate as a type of combatent with specific traits, there are four classes in Operation: Green Fox. The Grenadier carries a high-output smoke grenade and a frag grenade. The Medic can get their teammates back in the fight without having to walk back to a respawn. The Sapper can instantly dismantle enemy control points, and the Captain can quickly claim uncaptured control points. The Assault class is a rifleman with a small smoke grenade.
+
+
+### Prizes
+
+All participants in this event will be entered to win one of several raffle prizes! Airsoft Innovations Cyclone grenade, Tokyo Marui XL Speed Loader, and more! Special prizes will be awarded to most valuable players voted by each team.
+
+
+### Schedule
+
+All times PDT
+
+09:00AM Arrive and get situated
+09:30AM Safety briefing, Mission briefing.
+10:00AM Morning game
+12:00PM Lunch break (bring your own or visit T-Bell)
+01:00PM Afternoon game
+03:00PM Endex
+
+
+### Amenities
+
+Chris's house will be open for this event. Feel free to use the restroom, fill up your canteens at the kitchen sink, or just chill on the sofa :D
+
+
+### Lock & Load
+
+We hope to see you on the battlefield for this fun event! This is a free event, but we do have a donation jar which funds field improvements. We are looking to have a good turnout so definately bring your friends! 
+
+http://doomsquadairsoft.com/
+
+
+---
+
 ## Special Features of this game
 
 * One smoke grenade per player
@@ -98,18 +144,20 @@ Secondary objectives
 
 
 
-## Brainstorming
+### TODO List
 
-
-### Ideas from Brandon
-
-The us soldiers are defending police station from mosque the is a river inbetwwent the two. Suqad 2 is pushing south to set up a FOB. all other squads ar epinned down in police station fighting for their lives
-
-
-### Just writing to get ideas
-
-An order from intelligence has come down. OPFOR operatives have infiltrated BLUFOR 
-
+* [ ] Map
+  * [ ] ?admin=1 on the map
+  * [ ] streaming animations
+* [ ] Medic
+  * [ ] Healability
+  * [ ] Cookie-based authentication (per round)
+* [ ] Identity
+  * [ ] QR codes generated
+* [ ] Capture points
+  * [ ] Sapper quick takedown
+  * [ ] Captain quick capture
+  
 
 
 ### Shopping List
