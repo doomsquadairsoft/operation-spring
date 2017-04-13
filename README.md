@@ -231,8 +231,19 @@ The Captain is an important class, focused on helping their team succeed. Their 
 
 The Medic is essential to a team's well being. The medic heals downed players so they don't have to walk back to a respawn. A medic cannot heal themselves.
 
-The Sapper is well versed in destroying things who can help your team capture enemy control points. Their special ability is [Sabotage], which lets them turn the enemy's color flag into a grey flag in half the time as other players.
+The Sapper is well versed in destroying things. Their special ability is [Sabotage], which lets them [dismantle] an opponent's flag in half the time as other players.
 
-I'll start by introducing the player ID cards. These cards will be printed out at the start of each game, and they will you about your in-game identity. This game is REDFOR vs. BLUFOR and here I have the ID card for Ronald Ronaldsen who is on team BLU. Ronald is a Medic, 
+The Grenadier...
+
+The Assault...
+
+
+I'll start by introducing the player ID cards. These cards will be printed out at the start of each game, and they will you about your in-game identity. This game is REDFOR vs. BLUFOR and here I have the ID card for Ronald Ronaldsen who is on team BLU. Ronald is a Medic,
+
+For this game, you will need a phone with an internet connection, and any generic QR code scanner app. We have WiFi repeaters set up on the field, with access point name .... The password is .... 
+
+When you get your player card, scan the QR code labelled, [register], and open the scanned link in your web browser. The link will take you to a website which will save a cookie on your browser. When you scan subsequent QR codes, the cookie saved in your browser will tell the game server which player identity you are using, and allow the action as long as your player has that ability. (This prevents a medic from using bounty, for example.)
+
+To use an ability, scan the QR code...
 
 
