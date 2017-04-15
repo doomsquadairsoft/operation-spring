@@ -29,6 +29,10 @@ All participants in this event will be entered to win one of several raffle priz
 All times PDT
 
 09:00AM Arrive and get situated
+  * [ ] player safety check & sign-in
+    * [ ] eye protection check
+    * [ ] chrono & ziptie
+    * [ ] raffle ticket
 09:30AM Safety briefing, Mission briefing.
 10:00AM Morning game
 12:00PM Lunch break (bring your own or visit T-Bell)
@@ -160,10 +164,19 @@ Secondary objectives
   
 
 
-### Shopping List
+### Event Checklist
 
-
-* [ ] Tape or stickers to identify teams the players belong to
+* [ ] cooler
+* [ ] ice
+* [ ] bottled water
+* [x] Enola Gaye frags
+* [x] pen & paper pad (for registration)
+* [-] zipties (for chrono)
+* [x] chrono
+* [x] donation jar
+* [-] raffle tickets
+* [-] airsoft --> sign
+* [-] Tape or stickers to identify teams the players belong to
 
 
 
