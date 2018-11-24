@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="welcome-to-bluunia.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="707.35166"
+     inkscape:cy="53.35622"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="2045"
+     inkscape:window-x="1987"
+     inkscape:window-y="55"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.27861175px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 6.0543713,292.90579 H 291.03466 V 153.20191 h -25.44715 c -51.1318,-48.19825 -173.734727,-47.71551 -227.966687,0 H 6.0546472 l -2.759e-4,139.70388"
+       id="path1385"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path1389"
+       d="M 10.88218,287.84788 H 287.61405 V 156.18865 h -25.95189 c -48.18744,-45.42283 -170.203588,-44.96788 -221.312679,0 H 10.88244 l -2.6e-4,131.65923"
+       style="fill:#009900;stroke:#000000;stroke-width:0.2625683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Interstate;-inkscape-font-specification:Interstate;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="149.80687"
+       y="204.39584"
+       id="text1393"><tspan
+         sodipodi:role="line"
+         x="149.80687"
+         y="204.39584"
+         style="font-size:22.57777778px;line-height:0;text-align:center;text-anchor:middle;stroke-width:0.26458332;fill:#ffffff;fill-opacity:1;"
+         id="tspan1395">Welcome to Bluunia</tspan><tspan
+         sodipodi:role="line"
+         x="149.80687"
+         y="236.14584"
+         style="font-size:16.93333333px;line-height:0;text-align:center;text-anchor:middle;stroke-width:0.26458332;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:'Interstate Bold';font-family:Interstate;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="tspan1403">Population 15,000</tspan></text>
+    <rect
+       style="fill:#009900;fill-opacity:1;stroke:#ffffff;stroke-width:0.61000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1409"
+       width="120.40492"
+       height="18.441597"
+       x="18.708866"
+       y="262.39932"
+       ry="2.1381562" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:Interstate;-inkscape-font-specification:Interstate;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="23.434523"
+       y="274.32141"
+       id="text1399"><tspan
+         sodipodi:role="line"
+         id="tspan1397"
+         x="23.434523"
+         y="274.32141"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777778px;font-family:Interstate;-inkscape-font-specification:'Interstate Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">Mayor Thomas Bowldon</tspan></text>
+    <rect
+       ry="2.1381562"
+       y="262.39932"
+       x="157.15448"
+       height="18.441589"
+       width="125.08215"
+       id="rect1411"
+       style="fill:#009900;fill-opacity:1;stroke:#ffffff;stroke-width:0.61000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text1407"
+       y="274.32141"
+       x="162.52975"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:Interstate;-inkscape-font-specification:Interstate;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:Interstate;-inkscape-font-specification:'Interstate Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="274.32141"
+         x="162.52975"
+         id="tspan1405"
+         sodipodi:role="line">Sheriff Douglas Marques</tspan></text>
+    <g
+       id="g1451"
+       transform="translate(-37.988911,2.6458333)">
+      <path
+         sodipodi:type="star"
+         style="fill:#0000f5;fill-opacity:1;stroke:#000000;stroke-width:5.01100016;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1447"
+         sodipodi:sides="5"
+         sodipodi:cx="148.86913"
+         sodipodi:cy="130.4911"
+         sodipodi:r1="36.386047"
+         sodipodi:r2="18.193024"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.1519173"
+         inkscape:flatsided="false"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 180.38037,148.68413 -24.11148,-1.57287 -14.96485,18.97077 -5.95497,-23.41742 -22.66667,-8.37013 20.4311,-12.89989 0.95609,-24.143794 18.58208,15.444844 23.25756,-6.55155 -8.94674,22.44533 z"
+         inkscape:transform-center-x="2.3377411"
+         inkscape:transform-center-y="1.1753077" />
+      <path
+         inkscape:transform-center-y="1.1753077"
+         inkscape:transform-center-x="2.3377411"
+         d="m 180.38037,148.68413 -24.11148,-1.57287 -14.96485,18.97077 -5.95497,-23.41742 -22.66667,-8.37013 20.4311,-12.89989 0.95609,-24.143794 18.58208,15.444844 23.25756,-6.55155 -8.94674,22.44533 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.1519173"
+         sodipodi:arg1="0.52359878"
+         sodipodi:r2="18.193024"
+         sodipodi:r1="36.386047"
+         sodipodi:cy="130.4911"
+         sodipodi:cx="148.86913"
+         sodipodi:sides="5"
+         id="path1445"
+         style="fill:#0000f5;fill-opacity:1;stroke:#ffffff;stroke-width:3.91100001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="star" />
+    </g>
+    <path
+       style="fill:none;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 142.9892,133.16378 c 50.78121,-1.87089 80.98266,12.56167 94.61341,22.71791"
+       id="path1453"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:Interstate;-inkscape-font-specification:Interstate;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text1457"
+       transform="translate(10.156242,7.7508164)"><textPath
+         xlink:href="#path1453"
+         id="textPath1459"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter Bold Italic';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan1455">Stellam Caeruleam</tspan></textPath></text>
+  </g>
+</svg>

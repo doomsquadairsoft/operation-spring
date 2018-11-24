@@ -1,7 +1,7 @@
-# Operation: Blooming Fox
+# Operation: Green Fox III
 
 
-An Airsoft game put on by Doomsquadairsoft in spring 2017.
+The third installment of an airsoft game put on by Doomsquadairsoft in spring.
 
 
 ## Event Description
@@ -9,9 +9,60 @@ An Airsoft game put on by Doomsquadairsoft in spring 2017.
 Scheduled during Spring Break, this should have a good turnout, and be a great first game of 2017! This game has had loads of planning and will feature special player classes, pyrotechnics and special equipment.
 
 
-### REDFOR vs. BLUFOR
+## Event Goal
 
-Chris has created an electronic control point solution, similar to our "Domination" device which we have used during night games. Each control point will have a stationary device which players can interact with. The device can be set to either team, REDFOR or BLUEFOR, and the status of each control point on the field can be seen by viewing a website on any player's smartphone. Players can respawn at any point controlled by their team.
+The goal for this event is for everyone to have a fun, immersive airsoft experience. To that end, let's focus on creating a solid game concept using Controlpointer, and not get too deep into creating custom game rules that are hard to learn in a briefing.
+
+A backstory will complement the gameplay, but shouldn't be the focus.
+
+TL:DR; Keep it simple.
+
+
+## Prizes
+
+* CB Hat
+* dump pouch
+
+
+## Story
+
+REDFOR vs. BLUFOR.
+
+BLUFOR is from Bluunia,  REDFOR is from Reddskad.
+
+*IDEA* A rare exotic resource is discovered in Bluunia. Reddskad becomes greedy and invades to claim the exotic resource for themselves.
+
+### Briefing
+
+*Idea* After initial briefing, each team captain gets a briefing to read aloud to their team. The briefings contain orders unique to their team.
+
+The year is 2020. The scientific community is baffled as a rare, exotic material dubbed DOOMium has mysteriously appeared throughout Bluunia. Enticed by the idea of weaponizing the material and becoming a global superpower, the country of Reddskad sends an invasion force to occupy Bluunia and collect the rare material.
+
+#### BLUFOR Briefing
+
+BLUFOR spies have tipped us off that REDFOR is about to invade. Our mission is to locate all DOOMium within Bluunia, and protect it from coming under control of REDFOR.
+
+
+#### REDFOR Briefing
+
+DOOMium is an exotic resource with value we can only imagine. DOOMium can only be found in Bluunia, yet it's imperitive that Reddskad inherits the resource. Our mission is simple. Invade Bluunia, find the DOOMium, and capture it for our king.
+
+
+### Setup
+
+The field is Bluunia. The staging area is Reddskad. Place signage to indicate this.
+
+(x4) D3VICE 2B are placed on the field (Bluunia), each in positions unknown to either team. The game begins with BLUFOR able to roam the field and search for the DOOMium. After a short period, REDFOR is inserted into Bluunia to find DOOMium and/or engage BLUFOR.
+
+
+
+#### Signage
+
+"Welcome to Bluunia"
+
+"DANGER! DOOMIUM CONTAMINATED AREA. KEEP OUT."
+
+"Reddskadders go home! Reddskadders not welcome!"
 
 
 ### Class-Based Combat
@@ -47,7 +98,7 @@ Chris's house will be open for this event. Feel free to use the restroom, fill u
 
 ### Lock & Load
 
-We hope to see you on the battlefield for this fun event! This is a free event, but we do have a donation jar which funds field improvements. We are looking to have a good turnout so definately bring your friends! 
+We hope to see you on the battlefield for this fun event! This is a free event, but we do have a donation jar which funds field improvements. We are looking to have a good turnout so definately bring your friends!
 
 http://doomsquadairsoft.com/
 
@@ -70,83 +121,6 @@ http://doomsquadairsoft.com/
 
 
 
-## Game Functionality
-
-### AAS - Advance And Secure.
-
-Both teams start with 50 death tickets each. When a player dies, they must go to their team's CCP and expend one death ticket to respawn. The first team to exhaust all their death tickets loses.
-
-
-#### Special classes
-
-There are a number of special classes which can greatly influence the outcome of the game.
-
-##### Medics
-
-A medic can revive downed players in the field, expending one death ticket in the process.
-
-
-##### Captains
-
-Captains can self-heal after two minutes. Captains can capture downed enemy captains.
-
-
-##### Grenadiers
-
-Grenadiers carry anti-personnel explosive grenades, and concealment signal smokes.
-
-
-##### Sapper
-
-Sappers can sabotage enemy control points, preventing them from spawning.
-
-
-### Loss Conditions
-
-#### BLUFOR
-
-Fulfill any of the following conditions
-
-  * [ ] Exhaust all death tickets
-
-
-#### OPFOR
-
-Fulfill any of the following conditions
-
-  * [ ] Exhaust all death tickets
-
-
-
-### Win Conditions
-
-#### BLUFOR
-
-Fulfill all conditions
-
-  * [ ] Eliminate OPFOR Spy
-  * [ ] Capture OPFOR FOB
-
-
-#### OPFOR
-
-Fulfill any condition
-
-  * [ ] Capture OPFOR FOB
-  * [ ]
-
-
-Secondary objectives
-
-  * [ ] Sapper Sabotage (must complete all 2)
-    * [ ] Sabotage Control Point Alpha
-    * [ ] Sabotage Control Point Bravo
-
-
-
-
-
-
 ### TODO List
 
 * [-] Map
@@ -160,35 +134,23 @@ Secondary objectives
 * [x] Capture points
   * [x] Sapper quick takedown
   * [x] Captain quick capture
-  
+
 
 
 ### Event Checklist
 
 * [ ] cooler
 * [ ] ice
-* [x] bottled water
-* [x] Enola Gaye frags
-* [x] pen & paper pad (for registration)
-* [-] zipties (for chrono)
-* [x] chrono
-* [x] donation jar
-* [-] raffle tickets
-* [x] airsoft --> sign
-* [x] Tape or stickers to identify teams the players belong to
+* [ ] bottled water
+* [ ] Enola Gaye frags
+* [ ] pen & paper pad (for registration)
+* [ ] zipties (for chrono)
+* [ ] chrono
+* [ ] donation jar
+* [ ] raffle tickets
+* [ ] airsoft --> sign
+* [ ] Tape or stickers to identify teams the players belong to
 
-
-
-### Briefing
-
-
-#### Introductions
-
-Is everyone ready for some airsoft? (listen and get feel)
-
-I'd like to start with some introductions, so we're all shooting at friends rather than shooting at strangers (I think it's more fun that way). If we could go around the circle and get everyone's name, an airsoft callsign if they have one, and how long they've been playing airsoft, I think that's a good place to start.
-
-Thank you for coming to Operation: Green Fox. I'm really excited to have you here today for DooM Squad Airsoft's first game of the year. 
 
 
 #### Safety & Rules
@@ -224,39 +186,3 @@ Airsoft relies heavily on the honor system, so please be respectful and engage s
 
 
 Questions? Ask Russell and I at any time if you have any questions.
-
-
-#### Gameplay
-
-This is a team focused, class-based combat game which uses a computerized capture point system to keep score. Today we have two games planned, each lasting up to two ours, with no breaks. Obviously if you need to take a break, please do so by exiting the field and coming to the staging zone. Remember mags out, guns clear, safeties on in the safezone.
-
-This game is REDFOR vs. BLUFOR. Each team has a variety of classes. One captain, one medic, one sapper, one grenadier, and any number of assaults. Each class has unique abilities which can be used to help your team, or hinder the opposing team.
-
-There are four control points today. Goblin Fortress, King's Tower, Troll Bridge, and Swamp City. Each team starts with one control point, marked with a virtual flag in their team's color. There remain two grey flags on the map, which either team can claim. When a player dies, they can respawn at any control point owned by their team. Here's the live game map (show map.) As control points are captured, the map will update on your phone to show you the live status. You can respawn at any solid bordered control point. If a control point has a dashed border, it is contested by the opposing team and you cannot spawn at it.
-
-Control points owned by an enemy are converted to your team's color in two stages, dismantling and capturing. The first stage is dismantling, this is where you must turn the opponent team's flag color into grey. Second stage is capturing, this is where you turn a grey flag into your own team's color.
-
-Any player class can capture or dismantle a control point, but certain player classes can do one or the other twice as fast.
-
-In Operation: Green Fox, the hit rules are a little different than most airsoft games. When you are hit, call "HIT!" three times, raise your arms, place your dead-rag on your head, and sit on the ground where you were hit. You are not dead yet, you are just [downed]. You remain [down] for thirty seconds, so start counting out loud. If you aren't [healed] within 30 seconds, you [bleed out], and are [dead], then you can walk back to a respawn. A captain can use [self-heal] to save themselves from [bleeding out], but only after being down for 30 seconds.
-
-The Captain is an important class, focused on helping their team succeed. Their abilities are [Self-heal], which lets them heal themself instead of [bleeding out] and having to walk back to respawn. The captain's second ability is [Claim], which lets them turn grey flags into their team's color flags in half the time as other players.
-
-The Medic is essential to a team's well being. The medic heals downed players so they don't have to walk back to a respawn. A medic cannot heal themselves.
-
-The Sapper is well versed in destroying things. Their special ability is [Sabotage], which lets them [dismantle] an opponent's flag in half the time as other players.
-
-The Grenadier...
-
-The Assault...
-
-
-I'll start by introducing the player ID cards. These cards will be printed out at the start of each game, and they will you about your in-game identity. This game is REDFOR vs. BLUFOR and here I have the ID card for Ronald Ronaldsen who is on team BLU. Ronald is a Medic,
-
-For this game, you will need a phone with an internet connection, and any generic QR code scanner app. We have WiFi repeaters set up on the field, with access point name .... The password is .... 
-
-When you get your player card, scan the QR code labelled, [register], and open the scanned link in your web browser. The link will take you to a website which will save a cookie on your browser. When you scan subsequent QR codes, the cookie saved in your browser will tell the game server which player identity you are using, and allow the action as long as your player has that ability. (This prevents a medic from using bounty, for example.)
-
-To use an ability, scan the QR code...
-
-
